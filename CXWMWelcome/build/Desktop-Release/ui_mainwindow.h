@@ -47,6 +47,7 @@ public:
 ""));
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName("centralwidget");
+        centralwidget->setStyleSheet(QString::fromUtf8("color: rgb(0, 0, 0);"));
         groupBox = new QGroupBox(centralwidget);
         groupBox->setObjectName("groupBox");
         groupBox->setGeometry(QRect(40, 110, 521, 211));
