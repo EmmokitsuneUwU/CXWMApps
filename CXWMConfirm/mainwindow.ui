@@ -10,11 +10,16 @@
     <height>150</height>
    </rect>
   </property>
+  <property name="font">
+   <font>
+    <family>Terminus (TTF)</family>
+   </font>
+  </property>
   <property name="windowTitle">
    <string>CXWM Dialog</string>
   </property>
   <property name="windowIcon">
-   <iconset resource="resources.qrc">
+   <iconset>
     <normaloff>:/Img/logoFinal.png</normaloff>:/Img/logoFinal.png</iconset>
   </property>
   <property name="styleSheet">
@@ -105,8 +110,6 @@
    </widget>
   </widget>
  </widget>
- <resources>
-  <include location="resources.qrc"/>
- </resources>
+ <resources/>
  <connections/>
 </ui>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Img/logoFinal.png</file>
+        <file>Img/iconCalendar.png</file>
+    </qresource>
+</RCC>
